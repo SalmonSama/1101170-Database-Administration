@@ -1,0 +1,2 @@
+ALTER TABLE Employee
+ADD CONSTRAINT CK_YearBorn CHECK (yearborn > '1960-12-31');
