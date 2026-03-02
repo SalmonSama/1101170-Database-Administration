@@ -1,0 +1,18 @@
+CREATE DATABASE dbemployee8146
+ON PRIMARY 
+( 
+NAME=dbEmployee_DAT, 
+FILENAME= 
+'C:\DB_B6638146\dbemployee8146.mdf', 
+SIZE=5, 
+MAXSIZE=20, 
+FILEGROWTH=1 
+) 
+LOG ON
+(
+NAME= dbEmployee_LOG,
+FILENAME= 'C:\DB_B6638146\dbEmployee8146.ldf',
+SIZE=5,
+MAXSIZE=5,
+FILEGROWTH=1
+)
