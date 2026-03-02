@@ -1,0 +1,15 @@
+a.AND
+b.NOT
+c.OR
+
+a.NOT
+b.OR
+c.AND
+
+a.Keawratta
+b.Noo
+c.Jarumon
+
+1 c.OR
+2 c.AND
+3 c.Jarumon

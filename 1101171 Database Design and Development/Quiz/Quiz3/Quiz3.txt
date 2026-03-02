@@ -1,0 +1,3 @@
+Faculty
+Teacher
+Subject_ID
