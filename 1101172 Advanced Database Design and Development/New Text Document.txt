@@ -1,0 +1,12 @@
+Manual
+
+การใส่ Username Password สำหรับ TEST ใน SQL Devlopers 
+
+1. connection name: LabAvdb_รหัสนักศึกษา
+2. username: รหัสนักศึกษา (B ตัวใหญ่)
+3. password: 4ตัวท้ายของรหัสนศ
+4. host name : digilab.sut.ac.th
+5. post: 1521
+6. เลือก Service name : XEPDB1
+7. กด Test ให้ขึ้น Status: Success ก่อน
+8. กด connect
